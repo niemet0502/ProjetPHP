@@ -38,7 +38,7 @@ final class Versions
   'doctrine/cache' => '1.10.2@13e3381b25847283a91948d04640543941309727',
   'doctrine/collections' => '1.6.7@55f8b799269a1a472457bd1a41b4f379d4cfba4a',
   'doctrine/common' => '3.1.1@2afde5a9844126bc311cd5f548b5475e75f800d3',
-  'doctrine/dbal' => '2.12.1@adce7a954a1c2f14f85e94aed90c8489af204086',
+  'doctrine/dbal' => '2.10.4@47433196b6390d14409a33885ee42b6208160643',
   'doctrine/event-manager' => '1.1.1@41370af6a30faa9dc0368c4a6814d596e81aba7f',
   'doctrine/inflector' => '2.0.3@9cf661f4eb38f7c881cac67c75ea9b00bf97b210',
   'doctrine/instantiator' => '1.4.0@d56bf6102915de5702778fe20f2de3b2fe570b5b',
@@ -56,7 +56,7 @@ final class Versions
   'symfony/service-contracts' => 'v2.2.0@d15da7ba4957ffb8f1747218be9e1a121fd298a1',
   'symfony/string' => 'v5.2.3@c95468897f408dd0aca2ff582074423dd0455122',
   'symfony/yaml' => 'v2.8.52@02c1859112aa779d9ab394ae4f3381911d84052b',
-  '__root__' => '1.0.0+no-version-set@',
+  '__root__' => 'dev-main@306e4ae0e3a89550ff545c6dcdcd7b8a2491e0c8',
 );
 
     private function __construct()
